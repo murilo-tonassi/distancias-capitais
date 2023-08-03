@@ -1,0 +1,27 @@
+table,td, th {
+    border:solid 1px black;
+    border-collapse: collapse;
+}
+th {
+    text-align: left;
+    background-color: rgb(241, 198, 105);
+}
+
+td:hover{
+    background-color: rgba(180, 215, 245, 0.541);
+    } tr:nth-child(even){
+    background-color: rgba(245, 242, 242, 0.568);
+}
+th, td{
+    padding: 15px;
+    font-family: verdana;
+}
+td{
+    background-color:  rgb(252, 251, 251)
+}
+.mu{
+    background-color: rgb(107, 167, 245);
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
